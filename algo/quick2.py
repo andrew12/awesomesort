@@ -10,6 +10,7 @@ def partition(seq, left, right):
     seq.swap(left, right)
     return left
 
+
 def sort(seq, left=0, right=None):
     if right is None:
         right = len(seq)

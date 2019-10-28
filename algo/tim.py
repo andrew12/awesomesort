@@ -1,2 +1,2 @@
 def sort(seq):
-  seq.items.sort()
+    seq.items.sort()

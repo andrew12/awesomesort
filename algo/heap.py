@@ -10,6 +10,7 @@ def sift(seq, start, count):
         else:
             return
 
+
 def sort(seq):
     start = len(seq) // 2 - 1
     finish = len(seq) - 1
